@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    bbf63374-29a1-4013-a975-a6d4372834eb: a3190a4c-1252-4e59-9586-4d2a2df75ff6/cbf3c5de61bf44862ded1c2b648e23d0/Data/bluetooth_circle.png
+  Assets:
+    - !<FileTexture/bbf63374-29a1-4013-a975-a6d4372834eb>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 80
+        Height: 80
+  SourceHash: cbf3c5de61bf44862ded1c2b648e23d0
+  FileHash: 5b82362f09a0f877ff7b36f1cef094b8
+  NativePackageItems:
+    []

@@ -1,0 +1,72 @@
+- !<AssetImportMetadata/c84556d4-a1be-4e8e-88cf-5c3c5f6411a5>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 82951ad5-1bd3-4db2-b3af-501a611de02b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 82951ad5-1bd3-4db2-b3af-501a611de02b
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> bfee2623-bd55-446f-8ea5-94e8b98d0c21
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/bfee2623-bd55-446f-8ea5-94e8b98d0c21>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: aa912edf-d747-4511-80f3-13d30d726c67
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    armUpStateText: false
+    connectedBluetoothObj: false
+    doubleTapCounterText: false
+    palmUpStateText: false
+    pinchStateText: false
+    scanningBluetoothObj: false
+    tapCounterText: false
+    touchSdk: false
+    tripleTapCounterText: false
+    watchNameText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - touchSdk: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      connectedBluetoothObj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      scanningBluetoothObj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      watchNameText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      tapCounterText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      doubleTapCounterText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      tripleTapCounterText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      pinchStateText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      palmUpStateText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      armUpStateText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input AssignableType touchSdk
+    - '// @ui {"widget":"separator"}'
+    - // @input SceneObject connectedBluetoothObj
+    - // @input SceneObject scanningBluetoothObj
+    - // @input Component.Text watchNameText
+    - '// @ui {"widget":"separator"}'
+    - // @input Component.Text tapCounterText
+    - // @input Component.Text doubleTapCounterText
+    - // @input Component.Text tripleTapCounterText
+    - '// @ui {"widget":"separator"}'
+    - // @input Component.Text pinchStateText
+    - // @input Component.Text palmUpStateText
+    - // @input Component.Text armUpStateText

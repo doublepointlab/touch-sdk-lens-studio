@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1dd68be6-05d6-4b23-9854-b3b7f65bfaf5: 0d1d94be-d982-49b3-b678-e654fd883fdd/4ab20e9af0f1f4d4124b6d9d243e9e3a/Data/doublepoint_logo.png
+  Assets:
+    - !<FileTexture/1dd68be6-05d6-4b23-9854-b3b7f65bfaf5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 153
+        Height: 23
+  SourceHash: 4ab20e9af0f1f4d4124b6d9d243e9e3a
+  FileHash: 1324e4058928243a71beeb77309cf4a8
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    3807a07e-0550-4340-b093-2102989aa782: 8c417191-c500-45bd-9f44-f4e9793abdec/fb44fdc6870241a72fa769a854142a75/Data/paired_bluetooth_circle.png
+  Assets:
+    - !<FileTexture/3807a07e-0550-4340-b093-2102989aa782>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 80
+        Height: 80
+  SourceHash: fb44fdc6870241a72fa769a854142a75
+  FileHash: 476bdc262de45a9a2d5df9938877d2c9
+  NativePackageItems:
+    []

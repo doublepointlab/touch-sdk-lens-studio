@@ -1,0 +1,48 @@
+- !<AssetImportMetadata/5019287f-1f75-44b6-9601-1ad21749cb64>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 85cb42ed-ae3e-4dfc-95f6-f343c6c44db4
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 85cb42ed-ae3e-4dfc-95f6-f343c6c44db4
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 86a0a47e-62c1-4e65-8d77-268f3e1e1cda
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/86a0a47e-62c1-4e65-8d77-268f3e1e1cda>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 63f95513-65c2-495d-b541-e0ea740539c4
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    bluetoothCentralModule: false
+    debugLogAllDevices: false
+    watchName: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - bluetoothCentralModule: !<reference.BluetoothCentralModule> 00000000-0000-0000-0000-000000000000
+      watchName: ""
+      debugLogAllDevices: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Asset.BluetoothCentralModule bluetoothCentralModule
+    - // @input string watchName
+    - // @input bool debugLogAllDevices

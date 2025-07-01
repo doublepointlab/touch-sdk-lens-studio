@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1e6ffd27-af78-4656-8331-e2e2957cc07c: 79f056fe-30a7-4865-8eb7-3ebed9ab3afb/25ebe50d2cd4f7cace521998beee8fc2/Data/Frame.png
+  Assets:
+    - !<FileTexture/1e6ffd27-af78-4656-8331-e2e2957cc07c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 468
+        Height: 69
+  SourceHash: 25ebe50d2cd4f7cace521998beee8fc2
+  FileHash: 3a6ae975cbd8895241bd81e65d4f690a
+  NativePackageItems:
+    []
