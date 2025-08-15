@@ -4,9 +4,22 @@ Project created with `Public Lens Studio v5.10.1.25061003`
 
 <img src="Readme_images/example.gif" width="500">
 
+## Examples
+This project has examples for how you can use Doublepoint dpk together with Spectacles.
+The project contains examples for:
+- Pinch
+- Tap
+- Double tap
+- Triple tap
+- Palm orientation
+- Arm orientation
+- Gravity and angular velocity from the watch
+
+
 ## Showcase
 In this video we showcase what you could create with our example scene (Demo lens from AWE not included). 
 Click to open YouTube Video:
+
 <br>
 <a href="https://youtu.be/MoGz7ZWELhk" target="_blank">
   <img src="https://i.ibb.co/YJzJg4s/Spectacles-Doublepoint-Demo-AWE25-thumb.png" width="500">
@@ -17,8 +30,7 @@ Click to open YouTube Video:
 
 ## Getting started
 1. Download the version on Lens Studio mentioned in this README
-2. Make sure your DPK has firmware version `hax13`  
-    - This is important due this one having pinch, tap and double tap
+2. Make sure your DPK has firmware version `snap.1`
 3. In DPK choose the following
     1. Model: `26D + 1`
     2. BL MODE: `SDK`
